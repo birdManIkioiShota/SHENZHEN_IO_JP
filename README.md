@@ -8,8 +8,9 @@ SHENZHEN I/Oの日本語化ファイルです．<br>
 ですが，本ファイル導入によるゲームの安定性・安全性を保証できません．自己責任で使用してください．<br>
 
 <h2>ディベロッパー・パブリッシャー</h2>
-メール上で日本語化の詳細ついてZachtronics様に説明を行い，構わないという旨の返答を頂きました．
+メール上で日本語化の詳細ついてZachtronics様に説明を行い，構わないという旨の返答を頂きました．快い対応に感謝します<br>
 以下にやり取りを添付します．<br><br>
+最初の連絡
 
 >subject : wanna be allowed to publish Japanese localization file for SHENZHEN I/O<br>
 >
@@ -30,9 +31,15 @@ SHENZHEN I/Oの日本語化ファイルです．<br>
 >my github : https://github.com/birdManIkioiShota<br>
 >my steam : https://steamcommunity.com/id/IkioiShota<br>
 
+上に対するZachtronics様の返答
+
 >What you’ve described here is fine with us.<br>
+
+2回目の連絡
 
 >hello.<br>
 >i need to translate .txt files in Content/descriptions.zh/  and replace some textures in Content/textures/editor too.<br>
+
+上に対するachtronics様の返答
 
 >Also fine.<br>
