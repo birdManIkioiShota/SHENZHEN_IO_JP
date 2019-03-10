@@ -1,0 +1,44 @@
+﻿Subject:悪夢のようなセキュリティ
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+以前小さなゲーム機を作ったSleepCUBESというカプセルホテル会社を覚えていますか？
+そこからまた依頼がきています． 今度は国民識別番号を使った電子ドアロックを作って欲しいそうです．
+この製品にはプライバシーの問題があるのはもちろんのこと，複製が容易なマスターキーでロックを解除できる(!!!)問題もあります．
+
+しかし，彼らが言うように仕事は仕事です．
+
+Carl
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+SleepCUBEに何度か宿泊しましたが，言うほど悪くはなかったですよ．
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+まともなホテルから叩き出されたからですか？
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+顧客の調査ですよ！
+実際にクライアントの製品やサービスを使うことは，その会社を調べるいい情報です．
+これは健全な企業提携のための当然の手法です！
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+海涛，あなたは本当に変わりましたね．
+
+----------- (Completion)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+今まで見た中で一番安全性の低いセキュリティ案件です．
+
+SleepCUBESに泊まったことがあるなら，鍵を持ってきてください．

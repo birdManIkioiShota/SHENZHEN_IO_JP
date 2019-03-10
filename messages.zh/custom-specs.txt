@@ -1,0 +1,49 @@
+﻿Subject:カスタム仕様書
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+仕事で作成する製品の仕様はどうやって作っていると思いますか？
+conceptSPECというプログラムを用いています．
+
+もし希望であれば，自分自身の仕様書を作成することもできます．
+デスクトップにリンクを置いておきます．
+
+あまり洗練されたツールではないのですが，これしか選択肢はありません．
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+いい仕様書はいい実装を生み，悪い仕様書は悪い実装を生みます．
+覚えておいてください．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+ああ…私はいい仕様書でも悪い実装を生み出しています…
+
+----------- (Workshop)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+いい仕様書ですね．
+
+あなたにはいつか私の仕事をしてもらいます．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+杰は退職しませんよ．私が許しません．
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+この仕事を40年やっています．引退まではあと40年ぐらいでしょうか…
+
+杰

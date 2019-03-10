@@ -1,0 +1,2 @@
+﻿* *active*と*network*は LED を接続する単純出力．
+* 検証タブの表示に従い，*active*と*network*への出力信号を制御する．

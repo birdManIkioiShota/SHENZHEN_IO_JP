@@ -1,0 +1,57 @@
+﻿Subject:プロトタイプ設計
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+チップやコードを自由に使うことで，ブレークスルーが得られることもあります．自由に実験を行うために，試作エリアを作りました．ぜひ使ってください．
+
+ですが肝心なチップが…
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+カスタムLCDパネルなどの様々なコンポーネントも使用できるようにしましょう．
+
+新しい部品を入手したら適宜加えていくとします．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+カスタムLCDって本当？それは凄い．レトロスタイルの携帯ゲーム機も作れるじゃないですか！
+早速設計するとします．
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Carl，私のところに来てください．今やっているタスクが完了しても新しい仕事はまだあります．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+“Carl”って誰ですか？そんな人知りません…
+
+----------- (Sandbox)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+いいねですね！次はやっと私の番です．
+
+さて，どんなゲームを作ろうか？
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+電子工学なんてどうですか？
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+ハハハ！もうたくさんです．

@@ -1,0 +1,37 @@
+﻿Subject:工場の交換用モジュール
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+我が社の工場には，増幅した制御信号を使用する古い機械がいくつかあります．
+この機械を調整する装置があったのですが，最近壊れて(砕けて)しまいました．
+
+このプロジェクトはあなたが入力信号を学ぶためのものです．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+砕けた？？ちょっと待って，何かあったんですか？みんな大丈夫なんですか？
+
+----------- 
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+心配ありません．
+
+杰
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+大丈夫です．ありがとうございます．
+
+杰
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+皆さん気を付けてくださいね？

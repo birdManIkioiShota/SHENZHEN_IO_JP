@@ -1,0 +1,5 @@
+﻿* *random*は乱数生成機に接続された単純入力．
+* *speaker*は小型スピーカに接続された単純出力．
+* 値として1が生成されるとSINISTER GIGGLEの音声を流す．
+* 値として2が生成されるとBLOOD-CURDLING CRYの音声を流す．
+* 音声については，Cerlが見つけたデータをマニュアル中"Supplemental Data"に記載する．
