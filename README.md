@@ -10,6 +10,7 @@ SHENZHEN I/Oの日本語化ファイルです．<br>
 
 <h4>1. SHENZHEN_IO_JPをダウンロードし解凍</h4>
 <h4>2. 『ローカルファイルを閲覧』からSHENZHEN I/O/Contentにコピペ</h4>
+<img src="https://user-images.githubusercontent.com/44240143/54083347-77ab8c80-4365-11e9-9403-a57b29262628.png" width="480px">
 <h4>3. ゲームを起動し言語を中国語に変更</h4>
 <img src="https://user-images.githubusercontent.com/44240143/54083228-48e0e680-4364-11e9-8f5c-04c696024047.jpg" width="480px">
 以上で日本語化は完了です．お疲れさまでした．<br>
