@@ -5,14 +5,14 @@ SHENZHEN I/Oの日本語化ファイルです．<br>
 販売サイト：https://store.steampowered.com/app/504210/</br>
 <h2>使用法</h2>
 このファイルを適用するために外部ツールは必要ありません．<br>
-ですが，本ファイル導入によるゲームの安定性・安全性を保証できません．自己責任で使用してください．<br><br>
+ですが，本ファイル導入によるゲームの安定性・安全性を保証できません．自己責任で使用してください．<br>
 説明の画像はクリックで拡大できます．<br><br>
 
 <h4>1. SHENZHEN_IO_JPをダウンロードし解凍</h4>
 <h4>2. 『ローカルファイルを閲覧』からSHENZHEN I/O/Contentにコピペ</h4>
 <h4>3. ゲームを起動し言語を中国語に変更</h4>
 <img src="https://user-images.githubusercontent.com/44240143/54083228-48e0e680-4364-11e9-8f5c-04c696024047.jpg" width="480px">
-以上で日本語化は完了です．お疲れさまでした．
+以上で日本語化は完了です．お疲れさまでした．<br>
 <img src="https://user-images.githubusercontent.com/44240143/54083276-c86eb580-4364-11e9-90f7-a5273b854539.jpg" width="480px">
 <img src="https://user-images.githubusercontent.com/44240143/54083245-7af24880-4364-11e9-9915-14b7db26749d.jpg" width="480px">
 <img src="https://user-images.githubusercontent.com/44240143/54083300-f6ec9080-4364-11e9-9a50-54e41e69feae.jpg" width="480px">
