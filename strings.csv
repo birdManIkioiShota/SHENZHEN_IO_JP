@@ -3,7 +3,7 @@
 <NO SUBJECT>,,<NO SUBJECT>
 AMMO,,AMMO
 AUTO-FORMAT CODE,,コードの自動フォーマット
-AVALON CITY,,アバロン市
+AVALON CITY,,アヴァロンシティ
 Actual,,実測値
 Airline cocktail mixer,,航空機用カクテルミキサー
 Animated eSports sign,,eSportsのネオンサイン
@@ -14,13 +14,13 @@ BEST:,,最低：
 BRIDGE,,ブリッジ
 BROWSE THE WORKSHOP,,WORKSHOPを閲覧
 Brain-computer interface,,ブレイン・マシン・インターフェース
-"But after I graduated, the reality of the world caught up with me.",,我毕业后，现实世界无比残酷。
-But it brought me here.,,但我被带到了这里。
-"But no matter what the future holds, there’s one thing I know.",,无论未来如何，我对一件事情深信不疑。
+"But after I graduated, the reality of the world caught up with me.",,しかし卒業後，私は現実を知りました．
+But it brought me here.,,しかし，私はこれを成し遂げました．
+"But no matter what the future holds, there’s one thing I know.",,ですが，将来がどうあってもこれだけは確かです．
 "By uploading this specification, you agree to the Steam Workshop terms of service. For more information, visit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement",,この仕様をアップロードするにはSteam Workshopの利用規約に同意する必要があります：\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement
 CANCEL,,取り消し
 CC:,,CC:
-CHIP'S TIPS,,芯片提示
+CHIP'S TIPS,,CHIP'S TIPS
 CLOSE,,閉じる
 COMPILATION FAILED,,コンパイルに失敗しました
 COMPILE ERROR:,,コンパイルエラー：
@@ -32,10 +32,10 @@ CUSTOM SPECS,,仕様を作る
 Carbine target illuminator,,自動小銃用照準器
 "Cards can be stacked and moved in the center of the table, but only if they are of alternating suits and decreasing values.",,カードはテーブル上に重ねられますが，降順に配置する必要があり，同じ色を2つ連続して配置することはできません．
 Cellular scaffold printer,,细胞支架模型
-Click and hold this button to indicate that you have completed the objective.,,点击并持续按下此按钮，以确认你已完成目标。
-Click and hold this button to indicate your readiness.,,点击并持续按下此按钮，以表明你的决心。
-Click and hold this button to permanently relocate to Avalon City.,,点击并持续按下此按钮，确认你要永久搬往阿瓦隆城居住。
-Cold storage robot,,冷库机器人
+Click and hold this button to indicate that you have completed the objective.,,このボタンを押し続けて確認する．
+Click and hold this button to indicate your readiness.,,このボタンを押し続けて準備ができたことを示す．
+Click and hold this button to permanently relocate to Avalon City.,,ボタンをホールドすることでアヴァロンシティに移動する．
+Cold storage robot,,冷蔵室管理ロボット
 Color coordinating shoes,,自動変色シューズ
 Color-changing vape pen,,色の変わる電子タバコ
 Command + click to toggle breakpoint.,,Command + click でブレークポイントを切り替え．
@@ -54,7 +54,7 @@ DIAL 2,,DIAL 2
 DIAL 3,,DIAL 3
 DISCUSSIONS,,DISCUSSIONS
 Datasheets,,データシート
-Decide if you want to join Sun Haotian in Avalon City,,请决定你是否想追随孙昊天去往阿瓦隆城。
+Decide if you want to join Sun Haotian in Avalon City,,孙昊天氏のアヴァロンシティに行くか決める
 Deep sea sensor grid,,深海探査装置
 Design and create an electronic game,,電子ゲームを設計し作成する
 Diagnostic pulse generator,,診断用パルスジェネレータ
@@ -82,14 +82,14 @@ Heavy Rain,,大雨
 Histograms and leaderboards are not available for custom specifications.,,定制规格产品没有柱状图和排名榜。
 Huaqiangbei District - CAM 04 - LIVE,,華強北区　第4監視カメラ　LIVE
 "Huaqiangbei District, Shenzhen, Guangdong, China",,中国広東省　深圳市　華強北区
-I became an engineer because I wanted to make things.,,私は何かを作りたくてエンジニアになりました．
+I became an engineer because I wanted to make things.,,私は物を作りたくてエンジニアになりました．
 "I didn’t find love, or save the world, or anything like that.",,愛を見出したり，世界を救ったりといった出来事はありませんでした．
 INFORMATION,,情報
 INSTRUCTIONS,,説明書
 Indicate that you are ready for Sun to initiate project NETHUNS,,说明你已做好准备让孙先生启动 NETHUNS 项目
 "It took me a while, but eventually I realized it was true:",,我花了些时间，但最终我意识到这是真的：
-I’d have to go somewhere else.,,我必须去别的地方。
-I’m a damn good engineer.,,我真是个好工程师。
+I’d have to go somewhere else.,,私は他の場所へ行かねばなりません．
+I’m a damn good engineer.,,私はとても優秀なエンジニアです．
 Keep holding. You promise you really made a game?,,继续坚持。你敢说真的做过一个游戏？
 Kelp harvesting robot,,海藻收割机器人
 LANGUAGE,,言語
@@ -118,8 +118,8 @@ ON,,ON
 ON TIME,,ON TIME
 OPEN DESIGN,,設計を開く
 OPEN IN CONCEPT CAD,,CONCEPT CADで開く
-"Okay, we believe you. Great work!",,好的，我们相信你。干得漂亮！
-One thing I can always count on:,,我总能相信一件事：
+"Okay, we believe you. Great work!",,分かりました．あなたを信じます．素晴らしい仕事ですね！
+One thing I can always count on:,,常に信じられることが1つだけあります：
 Overcast,,曇り
 PART,,部品
 PART NOT RECOMMENDED,,使用非推奨
@@ -169,11 +169,11 @@ SPECIFICATIONS,,仕様
 STEAM WORKSHOP,,STEAM WORKSHOP
 SafetyNet tracking badge,,SafetyNetトラッキングバッジ
 Scientific chronometer,,科学精确计时器
-Sector 203 (商住区) - CAM 02 - LIVE,,203区 (商住区) - 2号监控 - 实时
-"Sector 203, The Independent Principality of Avalon City",,203区，阿瓦隆城独立公国
+Sector 203 (商住区) - CAM 02 - LIVE,,セクタ 203 (住宅・商業区) - CAM 02 - LIVE
+"Sector 203, The Independent Principality of Avalon City",,アヴァロンシティ独立行政区 セクタ203
 Simple,,単純
 Smart grid control router,,スマートグリッド用ルータ制御装置
-So what did I accomplish in Shenzhen?,,我在深圳有什么成就？
+So what did I accomplish in Shenzhen?,,深圳でどんな成果がありましたか？
 Solitaire,,ソリティア
 Somewhere I could do what I was meant to do.,,那是一个我能发挥自身天分的地方。
 Spoiler blocking headphones,,ネタバレ防止ヘッドフォン
@@ -215,7 +215,7 @@ Wireless game controller,,無線ゲームコントローラ
 XBus,,XBus
 You have created a working design for this specification!\n\nClick the *upload* button below to upload this specification to Steam Workshop.,,利用可能な仕様のデザインを作成しました．\n\nSTEAM WORKSHOPにアップロードするには下のアップロードボタンを押してください．
 You must create a working design for this specification before you can upload it to Steam Workshop.,,STEAM WORKSHOPにアップロードする前に，この仕様の動作可能なデザインを作成する必要があります．
-"You will not lose access to any puzzles, but there will be no going back!",,すべての問題にはいつでもアクセスできますが，もう戻ってくることはないでしょう．
+"You will not lose access to any puzzles, but there will be no going back!",,すべての問題にはいつでもアクセスできますが，ここにはもう戻れません！
 You will not lose access to any puzzles.,,すべての問題にはいつでもアクセスできます．
 You've successfully completed one test run! Let the simulation continue running to complete the verification process.,,你已经成功完成了一次测试运行！继续运行模拟，从而完成验证过程。
 a,SIGNAL NAME,a
