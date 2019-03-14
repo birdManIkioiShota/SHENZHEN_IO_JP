@@ -16,7 +16,7 @@ SHENZHEN I/Oの日本語化ファイルです．<br>
 以上で日本語化は完了です．お疲れさまでした．<br>
 <img src="https://user-images.githubusercontent.com/44240143/54083276-c86eb580-4364-11e9-90f7-a5273b854539.jpg" width="480px">
 <img src="https://user-images.githubusercontent.com/44240143/54083245-7af24880-4364-11e9-9915-14b7db26749d.jpg" width="480px">
-<img src="https://user-images.githubusercontent.com/44240143/54083300-f6ec9080-4364-11e9-9a50-54e41e69feae.jpg" width="480px">
+<img src="https://user-images.githubusercontent.com/44240143/54329525-5b556b80-4655-11e9-9a3a-b21a68633ce3.jpg" width="480px">
 <h2>ディベロッパー・パブリッシャー</h2>
 メール上で日本語化の詳細ついてZachtronics様に説明を行い，構わないという旨の返答を頂きました．快い対応に感謝します<br>
 以下にやり取りを添付します．<br><br>
