@@ -1,0 +1,30 @@
+﻿Subject:ロジックボード
+From: Kamran Farzan <k.farzan@neuro.avalon>
+CC: S. Pham <s.c.pham@elec.avalon>, G. Tows <g.tows@elec.avalon>, S. Bass <s.bass@elec.avalon>
+
+もうすぐです．
+今までの全ての要素を結び付けるには，もう1つ解決策が必要です．
+各ニューラルプロセッサ間で情報をやり取りする基盤が必要です．特に我々が生産できる規模のものが．
+
+Irinaへ：
+製品が大量に必要になると思われます…*大量に*
+
+-----------
+
+From: Irina Kurchatova <i.kurchatova@energy.avalon>
+
+望むところです ：）
+
+----------- (Completion)
+
+From: Kamran Farzan <k.farzan@neuro.avalon>
+
+出来るだけ早く大量にこの製品が必要です．Enzo?
+
+-----------
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+現在複数の施設を稼働させています．
+必要最低限のものではないものはすべてこれに取り込まれます．
+NETHUNSの開始は目前です．

@@ -1,0 +1,3 @@
+﻿* *stage-1*，*stage-2*，*stage-3*，*stage-4*は単純入力．
+* *display*はカスタムLCDパネルに接続するXBus出力．
+* 検証パネルの表示に従って*display*に出力を行う．

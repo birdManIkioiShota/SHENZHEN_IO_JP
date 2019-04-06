@@ -1,0 +1,53 @@
+﻿Subject:射撃練習
+From: Enzo Capretti <e.capretti@avalon.avalon>
+CC: S. Pham <s.c.pham@elec.avalon>
+
+いい考えはありませんか？
+
+-
+
+メッセージの転送を開始:
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+新しい装備はどうですか？
+
+-
+
+From: Security <security@avalon.avalon>
+To: Enzo Capretti <e.capretti@avalon.avalon>
+
+非致死性の武器は問題なく動作していますが，通常の武器のように使うのは難しいようです．
+軌道に僅かに違いがあり，警備隊が適応できていません．
+武器を練習できる射撃場が必要ですね．
+
+-
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+Lisaによると力になれるエンジニアを知っているそうなので，一度投げてみますね．
+
+----------- (Completion)
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+メッセージの転送を開始:
+
+-
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+To: Security <security@avalon.avalon>
+
+射撃場はどうですか？
+
+-
+
+From: Security <security@avalon.avalon>
+To: Enzo Capretti <e.capretti@avalon.avalon>
+
+はい．素晴らしい仕事をしてくれました．
+おかげで命中率が目に見えて上がっています．すぐにデータを送りますね．
+ありがとうございました．
+

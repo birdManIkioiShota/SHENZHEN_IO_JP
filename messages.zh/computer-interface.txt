@@ -1,0 +1,31 @@
+﻿Subject:インターフェイス
+From: Kamran Farzan <k.farzan@neuro.avalon>
+CC: N. Pinsker <n.pinsker@elec.avalon>, J. Thiele <j.thiele@elec.avalon>
+
+カスタムボードを使って現在のデザインを進めましょう．
+
+----------- 
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+Kamran，自己紹介は済ませましたか？
+
+----------- 
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+紹介するには皆忙しすぎると思います！
+Kamranは低水準のブレインコンピュータインターフェイスを設計するプロジェクトを指揮しています．
+これはNETHUNSプロジェクトの一環です．
+
+----------- (Completion)
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+必要なものは揃いましたか？
+
+-----------
+
+From: Kamran Farzan <k.farzan@neuro.avalon>
+
+はい．大丈夫です．
